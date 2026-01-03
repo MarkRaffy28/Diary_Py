@@ -1,0 +1,13 @@
+app/data/
+app/ui/screens/app/
+app/ui/screens/assets/
+assets/fonts_backup
+!assets/fonts/*
+assets/fonts/*/
+__pycache__/
+
+*.pyc
+venv/
+.env/
+.*
+!.gitignore
